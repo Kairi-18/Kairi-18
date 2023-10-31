@@ -38,9 +38,16 @@
 <hr/>
 
 
+<br/>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kairi-18&show_icons=true&locale=en&layout=compact" alt="kairi-18" /></p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kairi-18&show_icons=true&locale=en" alt="kairi-18" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kairi-18&" alt="kairi-18" /></p>
 
 
-
+<hr/>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;">
 </h3>
