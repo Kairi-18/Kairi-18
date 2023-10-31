@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **C++, Html, Css**
 
- ⚡ Fun fact **A man with interest are likely the most joyful person**
+ ⚡ Fun fact **A man with an interest are likely the most joyful person**
  
  </div>
  
