@@ -37,11 +37,11 @@
 
 <hr/>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kairi-18&show_icons=true&locale=en&layout=compact" alt="kairi-18" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kairi-18&show_icons=true&theme=dark&locale=en&layout=compact" alt="kairi-18" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kairi-18&show_icons=true&locale=en" alt="kairi-18" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kairi-18&show_icons=true&theme=dark&locale=en" alt="kairi-18" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kairi-18&" alt="kairi-18" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kairi-18&theme=dark" alt="kairi-18" /></p>
 
 
 <hr/>
