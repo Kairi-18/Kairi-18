@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **C++, Html, Css**
 
- ⚡ Fun fact **A man without interest are likely the most dangerous person**
+ ⚡ Fun fact **A man with interest are likely the most joyful person**
  
  </div>
  
