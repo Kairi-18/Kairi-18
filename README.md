@@ -1,12 +1,22 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kairi-18" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kylie+Magistrado!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kylie+Magistrado!;+A+Beginner+Developer;" />
 </h1>
 
-<h3 align="center">A noob developer</h3>
+<h3 align="center">A Java developer</h3>
 
 <br/>
+
+<div align="center">
+
+ 🔭 I’m currently working on **an idea to code**
+
+ 🌱 I’m currently learning **C++, Html, Css**
+
+ ⚡ Fun fact **Think that knowledge as a great gift**
+
+ </div>
 
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
