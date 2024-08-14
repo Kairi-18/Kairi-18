@@ -10,7 +10,7 @@
 
  🔭 I’m currently working on **an idea to code**
 
- 🌱 I’m currently learning **C++, Html, Css**
+ 🌱 I’m currently learning **java, Html, Css**
 
  ⚡ Fun fact **Think that knowledge as a great gift**
 
